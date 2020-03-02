@@ -1,0 +1,8 @@
+{
+  "name": "gitbook-plugin-tooltips",
+  "version": "0.0.1",
+  "description": "Tooltips Plugin for Gitbook",
+  "engines": {
+      "gitbook": ">1.x.x"
+  }
+}
